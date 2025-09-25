@@ -95,8 +95,8 @@ selenium-automation-learning/
 
 ### Semana 1: Python Básico
 - ✅ Instalación de Python y configuración del entorno
-- [ ] Variables y tipos de datos
-- [ ] Estructuras de control (if, for, while)
+- ✅ Variables y tipos de datos
+- ✅ Estructuras de control (if, for, while)
 - [ ] Ejercicio práctico: Validador de datos de prueba
 
 ### Semana 2: Python Intermedio
