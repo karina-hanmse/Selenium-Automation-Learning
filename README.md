@@ -97,7 +97,7 @@ selenium-automation-learning/
 - ✅ Instalación de Python y configuración del entorno
 - ✅ Variables y tipos de datos
 - ✅ Estructuras de control (if, for, while)
-- [ ] Ejercicio práctico: Validador de datos de prueba
+- ✅ Ejercicio práctico: Validador de datos de prueba
 
 ### Semana 2: Python Intermedio
 - [ ] Funciones y módulos
@@ -160,5 +160,6 @@ Este proyecto está diseñado para:
 *Este repositorio documenta un proceso de aprendizaje real y evolutivo. Los commits frecuentes reflejan progreso diario y metodología de trabajo, no perfección del código final.*
 
 **Inicio del proyecto:** 24-09-2025
-**Estado actual:** En progreso - Semana 1
-**Última actualización:** 24-09-2025
+**Estado actual:** Terminada - Semana 1
+                   En proceso - Semana 2 
+**Última actualización:** 30-09-2025
