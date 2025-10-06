@@ -163,6 +163,7 @@ Este proyecto está diseñado para:
 ## 📋 Historial de Cambios
 | Semana   | Fecha Inicio | Fecha Fin | Estado   |
 | Semana 1 | 24-09-2025   | 30-09-2025| Terminada |
-| Semana 2 | 30-09-2025   | ----------| En proceso |
+| Semana 2 | 30-09-2025   | 06-10-2025| Terminada |
+| Semana 3 | 06-10-2025   | ----------| En proceso|
 
-**Última actualización:** 30-09-2025
+**Última actualización:** 06-10-2025
