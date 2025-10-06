@@ -100,7 +100,7 @@ selenium-automation-learning/
 - ✅ Ejercicio práctico: Validador de datos de prueba
 
 ### Semana 2: Python Intermedio
-- [ ] Funciones y módulos
+- ✅ Funciones y módulos
 - [ ] Manejo de archivos CSV/JSON
 - [ ] Introducción a POO
 - [ ] Ejercicio práctico: Generador de datos de prueba
@@ -161,9 +161,9 @@ Este proyecto está diseñado para:
 
 **Inicio del proyecto:** 24-09-2025
 ## 📋 Historial de Cambios
-| Semana   | Fecha Inicio | Fecha Fin | Estado   |
-| Semana 1 | 24-09-2025   | 30-09-2025| Terminada |
-| Semana 2 | 30-09-2025   | 06-10-2025| Terminada |
-| Semana 3 | 06-10-2025   | ----------| En proceso|
+| Semana   | Fecha Inicio | Fecha Fin | Estado      |
+| Semana 1 | 24-09-2025   | 30-09-2025| Terminada   |
+| Semana 2 | 30-09-2025   | 06-10-2025| En Proceso  |
+| Semana 3 | ----------   | ----------| ----------  |
 
 **Última actualización:** 06-10-2025
